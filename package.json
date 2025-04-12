@@ -1,0 +1,11 @@
+{
+  "name": "browser-security-cli",
+  "version": "1.0.0",
+  "main": "crawler.js",
+  "scripts": {
+    "start": "node crawler.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
